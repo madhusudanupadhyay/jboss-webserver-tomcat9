@@ -11,4 +11,4 @@ That is literally all.!! :bowtie:
 > Enjoy the application, expose the routes and serve your _webapps_..!!
 
 
-Thanks @aollebla@redhat.com for the asstes needed for the application repo. :thumbsup:
+Thanks @aolle for the asstes needed for the application repo. :thumbsup:
