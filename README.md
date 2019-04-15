@@ -4,3 +4,11 @@ Sample repository for deploying a [_**webserver-tomcat9**_](https://access.redha
 
 ## How to deploy the beast on an Openshift environment ?
 
+> oc new-app https://github.com/madhusudanupadhyay/jboss-webserver-tomcat9.git
+
+
+That is literally all.!! :bowtie:
+> Enjoy the application, expose the routes and serve your _webapps_..!!
+
+
+Thanks @aollebla@redhat.com for the asstes needed for the application repo. :thumbsup:
